@@ -27,12 +27,12 @@ h3 {
 
 <style>
 a:link {
-    color: green;
+    color: blue;
     background-color: transparent;
     text-decoration: none;
 }
 a:visited {
-    color: pink;
+    color: blue;
     background-color: transparent;
     text-decoration: none;
 }
@@ -42,7 +42,7 @@ a:hover {
     text-decoration: underline;
 }
 a:active {
-    color: yellow;
+    color: red;
     background-color: transparent;
     text-decoration: underline;
 }
