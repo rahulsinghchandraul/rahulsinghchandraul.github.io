@@ -25,15 +25,28 @@ h3 {
 	color: black;
 }
 
-a {
-	color: #00008B;
-	text-decoration: none;
+<style>
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
 }
-
-a1 {
-	color: #00008B;
-	text-decoration: underline;
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
 }
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+</style>
 
 ul {
     line-height: 20px;
