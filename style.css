@@ -27,7 +27,7 @@ h3 {
 
 a {
 	color: #00008B;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 ul {
