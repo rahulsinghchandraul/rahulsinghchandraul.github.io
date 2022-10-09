@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Notes
-permalink: /notes/
+title: Education
+permalink: /education/
 order: 3
 ---
 
-Notes
+Education
 
 
 *Page under construction*
