@@ -18,7 +18,7 @@ B. S. Manoj, Abhishek Chakraborty, and *Rahul Singh* \\
 # Pre-Prints
 
 1. [Signed Graph Neural Networks: A Frequency Perspective](https://arxiv.org/pdf/2208.07323.pdf) \\
-*Rahul Singh* and Yongxin Chen \\
+*Rahul Singh* and Yongxin Chen
 
 # Journals
 1. [Inference with Aggregate Data in Probabilistic Graphical Models: An Optimal Transport Approach](https://arxiv.org/pdf/2003.13933.pdf) \\
