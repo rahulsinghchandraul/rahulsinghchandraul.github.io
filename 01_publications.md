@@ -43,7 +43,7 @@ B. S. Manoj, Abhishek Chakraborty, and *Rahul Singh* \\
 
 1. [Incremental Inference of Collective Graphical Models.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9119078) \\
 *Rahul Singh*, Isabel Haasler, Qinsheng Zhang, Johan Karlsson, and Yongxin Chen \\
- - **IEEE Control Systems Letters**, 2020.
+ - **IEEE Control Systems Letters**, 2021.
 
 1. [GFT Centrality: A new Node Importance Measure for Complex Networks](https://www.sciencedirect.com/science/article/pii/S0378437117306593) \\
 *Rahul Singh*, Abhishek Chakraborty, and B. S. Manoj \\
