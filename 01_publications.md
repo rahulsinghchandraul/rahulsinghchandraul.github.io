@@ -26,7 +26,7 @@ B. S. Manoj, Abhishek Chakraborty, and *Rahul Singh* \\
  - **IEEE Transactions on Automatic Control**, 2022.
 
 1. [Learning Gaussian Hidden Markov Models From Aggregate Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9810354) \\
-*Rahul Singh*, Qinsheng Zhang, and Yongxin Chen \\
+*Rahul Singh* and Yongxin Chen \\
  - **IEEE Control Systems Letters**, 2022.
 
 1. [Inference of Aggregate Hidden Markov Models With Continuous Observations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9731510) \\
