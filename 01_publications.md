@@ -5,47 +5,47 @@ order: 1
 permalink: /publications/
 ---
 
-(My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=HF_VfkMAAAAJ&view_op=list_works&sortby=pubdate))
+My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=HF_VfkMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 
 
 
 # Book
 
-1. [Complex Networks: A Networking and Signal Processing Perspective](https://complexnetworksbook.github.io/) \\
+1. [Complex Networks: A Networking and Signal Processing Perspective](https://complexnetworksbook.github.io/){:target="_blank"} \\
 B. S. Manoj, Abhishek Chakraborty, and *Rahul Singh* \\
 - **Prentice Hall**, 2018.
 
 # Pre-Prints
 
-1. [Signed Graph Neural Networks: A Frequency Perspective](https://arxiv.org/pdf/2208.07323.pdf) \\
+1. [Signed Graph Neural Networks: A Frequency Perspective](https://arxiv.org/pdf/2208.07323.pdf){:target="_blank"} \\
 *Rahul Singh* and Yongxin Chen
 
 # Journals
-1. [Inference with Aggregate Data in Probabilistic Graphical Models: An Optimal Transport Approach](https://arxiv.org/pdf/2003.13933.pdf) \\
+1. [Inference with Aggregate Data in Probabilistic Graphical Models: An Optimal Transport Approach](https://arxiv.org/pdf/2003.13933.pdf){:target="_blank"} \\
 *Rahul Singh*, Isabel Haasler, Qinsheng Zhang, Johan Karlsson, and Yongxin Chen \\
  - **IEEE Transactions on Automatic Control**, 2022.
 
-1. [Learning Gaussian Hidden Markov Models From Aggregate Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9810354) \\
+1. [Learning Gaussian Hidden Markov Models From Aggregate Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9810354){:target="_blank"} \\
 *Rahul Singh* and Yongxin Chen \\
  - **IEEE Control Systems Letters**, 2022.
 
-1. [Inference of Aggregate Hidden Markov Models With Continuous Observations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9731510) \\
+1. [Inference of Aggregate Hidden Markov Models With Continuous Observations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9731510){:target="_blank"} \\
 *Rahul Singh*, Qinsheng Zhang, and Yongxin Chen \\
  - **IEEE Control Systems Letters**, 2022.
 
-1. [Learning Hidden Markov Models from Aggregate Observations](https://www.sciencedirect.com/science/article/pii/S0005109821006294) \\
+1. [Learning Hidden Markov Models from Aggregate Observations](https://www.sciencedirect.com/science/article/pii/S0005109821006294){:target="_blank"} \\
 *Rahul Singh*, Qinsheng Zhang, and Yongxin Chen \\
  - **Automatica**, 2022.
 
-1. [Multi-marginal Optimal Transport and Probabilistic Graphical Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9422971) \\
+1. [Multi-marginal Optimal Transport and Probabilistic Graphical Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9422971){:target="_blank"} \\
 *Rahul Singh*, Isabel Haasler, Qinsheng Zhang, Johan Karlsson, and Yongxin Chen \\
  - **IEEE Transactions on Information Theory**, 2021.
 
-1. [Incremental Inference of Collective Graphical Models.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9119078) \\
+1. [Incremental Inference of Collective Graphical Models.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9119078){:target="_blank"} \\
 *Rahul Singh*, Isabel Haasler, Qinsheng Zhang, Johan Karlsson, and Yongxin Chen \\
  - **IEEE Control Systems Letters**, 2021.
 
-1. [GFT Centrality: A new Node Importance Measure for Complex Networks](https://www.sciencedirect.com/science/article/pii/S0378437117306593) \\
+1. [GFT Centrality: A new Node Importance Measure for Complex Networks](https://www.sciencedirect.com/science/article/pii/S0378437117306593){:target="_blank"} \\
 *Rahul Singh*, Abhishek Chakraborty, and B. S. Manoj \\
 - **Elsevier Physica A: Statistical Mechanics and its Applications**, 2017.
 
