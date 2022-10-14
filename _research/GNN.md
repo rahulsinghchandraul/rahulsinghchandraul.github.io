@@ -2,7 +2,7 @@
 title: Signed Graph Neural Networks
 layout: page
 tags: GNN, Signed Graphs
-permalink: /research/PGMOT.html
+permalink: /research/GNN.html
 ---
 
 Graph convolutional networks (GCNs) and its variants are designed for unsigned graphs containing only positive links. 
