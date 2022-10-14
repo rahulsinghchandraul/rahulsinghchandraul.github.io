@@ -19,4 +19,4 @@ We test our methods for node classification and link sign prediction tasks on si
 
 
 1. [Signed Graph Neural Networks: A Frequency Perspective](https://arxiv.org/pdf/2208.07323.pdf){:target="_blank"} \\
-**Rahul Singh** and Yongxin Chen \\ 
+**Rahul Singh** and Yongxin Chen 
