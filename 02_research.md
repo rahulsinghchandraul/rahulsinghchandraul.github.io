@@ -16,7 +16,6 @@ I have worked on the following projects during my research career. The links to 
 
 * [Sample Based Distributional Reinforcement Learning](DRL.html)
 
-*Page perpetually Under Construction*
 
 
 
