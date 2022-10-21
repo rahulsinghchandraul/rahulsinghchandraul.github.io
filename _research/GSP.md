@@ -5,8 +5,13 @@ tags: GNN, Signed Graphs
 permalink: /research/GSP.html
 ---
 
-Graph signal processing extends classical concepts such as Fourier transform, convolution, wavelets to signals defined on irregular domains represented as graphs. In this field, my contributions can be summarized into the following three works.
+Graph signal processing extends classical concepts such as Fourier transform, convolution, wavelets to signals defined on irregular domains represented as graphs. In this field, my work can be summarized into the following three contributions.
 
+* Graph Fourier Transform based on Directed Lapacian
+
+* Directed Graph Wavelets
+
+* Signed Magnetic Laplacian
 
 
 #### List of Publications: ####
