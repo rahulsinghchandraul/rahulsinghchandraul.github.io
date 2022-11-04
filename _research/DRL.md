@@ -5,7 +5,6 @@ tags: DRL, policy gradient
 permalink: /research/DRL.html
 ---
 
-Graph signal processing extends classical concepts such as Fourier transform, convolution, wavelets to signals defined on irregular domains represented as graphs. In this field, my work can be summarized into the following three contributions.
 
 * Sample based Distributional Policy Gradient
 
