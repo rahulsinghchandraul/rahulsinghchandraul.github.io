@@ -5,7 +5,7 @@ permalink: /education/
 order: 3
 ---
 
-* [Georgia Institute of Technology:](https://ml.gatech.edu){:target="_blank"} **PhD** in *Machine Learning*, 2023 (expected) 
+* [Georgia Institute of Technology:](https://ml.gatech.edu){:target="_blank"} **PhD** in *Machine Learning*, 2023 
 
 * [Iowa State University:](https://www.ece.iastate.edu){:target="_blank"} **M. Eng.** in *Electrical Engineering*, 2018 
 
