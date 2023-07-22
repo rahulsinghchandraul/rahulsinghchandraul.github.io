@@ -15,12 +15,11 @@ My [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=HF_V
 B. S. Manoj, Abhishek Chakraborty, and *Rahul Singh* \\
 - **Prentice Hall**, 2018.
 
-# Pre-Prints
-
-1. [Signed Graph Neural Networks: A Frequency Perspective](https://arxiv.org/pdf/2208.07323.pdf){:target="_blank"} \\
-*Rahul Singh* and Yongxin Chen
-
 # Journals
+1. [Signed Graph Neural Networks: A Frequency Perspective](https://openreview.net/forum?id=RZveYHgZbu){:target="_blank"} \\
+*Rahul Singh* and Yongxin Chen \\
+- **Transactions on Machine Learning Research**, 2023.
+
 1. [Inference with Aggregate Data in Probabilistic Graphical Models: An Optimal Transport Approach](https://arxiv.org/pdf/2003.13933.pdf){:target="_blank"} \\
 *Rahul Singh*, Isabel Haasler, Qinsheng Zhang, Johan Karlsson, and Yongxin Chen \\
  - **IEEE Transactions on Automatic Control**, 2022.
