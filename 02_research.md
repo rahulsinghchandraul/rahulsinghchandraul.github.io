@@ -16,6 +16,6 @@ I have worked on the following projects during my research career. The links to 
 
 * [Sample Based Distributional Reinforcement Learning](DRL.html)
 
+Application of machine learning in two brain neuroscience
 
-
-
+* [Classification of FEP patients](FEP.html)
