@@ -4,7 +4,7 @@ order: 1
 permalink: /
 ---
 
-[Google Scholar Link](https://scholar.google.com/citations?user=HF_VfkMAAAAJ\&hl=en){:target="_blank"}              [CV](./rahul_cv.pdf){:target="_blank"}
+[Google Scholar Link](https://scholar.google.com/citations?user=HF_VfkMAAAAJ\&hl=en){:target="_blank"}  <pre> <pre> [CV](./rahul_cv.pdf){:target="_blank"}
 
 I am a Postdoctoral Fellow in [Wu Tsai Neuroscience Institute](https://wti.yale.edu/){:target="_blank"} at Yale University. I am associated with [Brain Function Laboratory](http://fmri.org/){:target="_blank"} at Yale School of Medicine and [Krishnaswamy Lab](https://krishnaswamylab.org/){:target="_blank"} at the Yale Computer Science Department. My research lies at the crossroads of machine learning, signal processing, and computational neuroscience, with a focus on developing principled methods to analyze and model complex structured data. I am particularly motivated by problems where data inherently resides on irregular domains, exhibits intricate relationships, or necessitates robust and adaptive decision-making frameworks. My work spans four interconnected areas: graph signal processing and representation learning, probabilistic graphical models and optimal transport, distributional reinforcement learning, and applications in neuroscience.
 
