@@ -5,6 +5,11 @@ order: 2
 permalink: /teaching/
 ---
 
+Tutorial Slides on [Graph Signal Processing](./GSP_Tutorial2024.pdf){:target="_blank"}
+
+
+
+I have been a teaching assistant for the following courses.
 
 1. **Fall 2021**: TA for [AE 3530 - System Dynamics and Vibration](https://ae.gatech.edu/sites/default/files/images/syll-ae3530.pdf){:target="_blank"}
 
