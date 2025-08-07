@@ -17,7 +17,15 @@ p {
   font-size: 16px;  /* Change 16px to your desired size */
 }
 
-h3 {
+li {
+  font-size: 16px; /* or 18px, etc. */
+}
+
+li {
+  font-size: 16px; /* or 18px, etc. */
+}
+
+a {
     font-variant: small-caps;
 }
 
