@@ -41,6 +41,10 @@ a {
     margin-bottom: -5px;
 }
 
+.university-link {
+  font-size: 14px; /* or 16px, etc. */
+}
+
 .left {
     text-align: left;
 }
