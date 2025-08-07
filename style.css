@@ -13,6 +13,10 @@ body {
     background: white;
 }
 
+p {
+  font-size: 2px;  /* Change 16px to your desired size */
+}
+
 h3 {
     font-variant: small-caps;
 }
