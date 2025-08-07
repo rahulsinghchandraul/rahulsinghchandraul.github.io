@@ -41,6 +41,10 @@ a {
     margin-bottom: -5px;
 }
 
+.dept-link {
+  font-size: 5px; /* or 16px, etc. */
+}
+
 .university-link {
   font-size: 14px; /* or 16px, etc. */
 }
